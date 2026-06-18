@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>   
+
 ---
 I am an undergraduate student in Mechatronics Engineering. I am deeply passionate about the intersection of artificial intelligence, robotics, and advanced control systems. I enjoy transforming complex mathematical models into tangible solutions, bridging the gap between mechanical design, power electronics, and software programming.
 
