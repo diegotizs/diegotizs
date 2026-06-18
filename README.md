@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Diego Sanchez</h3>
+<h3 align="center">👋 Hi there, I'm Diego Sánchez</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-sánchez-tiznado-4423b03b0" target="_blank">
