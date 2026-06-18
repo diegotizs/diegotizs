@@ -5,7 +5,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diego-sánchez-tiznado" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/diego-s%C3%A1nchez-tiznado?trk=profile-badge">Diego Sánchez Tiznado</a></div>
+              
 ---
 I am an undergraduate student in Mechatronics Engineering. I am deeply passionate about the intersection of artificial intelligence, robotics, and advanced control systems. I enjoy transforming complex mathematical models into tangible solutions, bridging the gap between mechanical design, power electronics, and software programming.
 
