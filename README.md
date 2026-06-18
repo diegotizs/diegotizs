@@ -14,20 +14,24 @@ Actualmente, enfoco mi desarrollo en la integración de hardware, la movilidad e
 
 ### 🛠️ Mis Habilidades Técnicas
 
-**Programación y Web:** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-
-<br>
-
-**Control, Simulación y Análisis:** <br>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-<img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge" alt="Simulink" />
-
-<br>
-
-**Diseño CAD y Hardware:** <br>
-<img src="https://img.shields.io/badge/SolidWorks-D22730?style=for-the-badge" alt="SolidWorks" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <b>Programación y Web</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br><br>
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /><br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <b>Control y Simulación</b><br><br>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white" alt="MATLAB" /><br><br>
+      <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logoColor=white" alt="Simulink" />
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <b>Diseño CAD y Hardware</b><br><br>
+      <img src="https://img.shields.io/badge/SolidWorks-D22730?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" /><br><br>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+    </td>
+  </tr>
+</table>
