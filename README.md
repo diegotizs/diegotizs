@@ -7,18 +7,18 @@
 </p>
 
 ---
-Soy estudiante de Ingeniería Mecatrónica. Me apasiona profundamente la intersección entre la inteligencia artificial, la robótica y los sistemas de control avanzado. Disfruto transformar modelos matemáticos complejos en soluciones tangibles, cerrando la brecha entre el diseño mecánico, la electrónica de potencia y la programación.
+I am an undergraduate student in Mechatronics Engineering. I am deeply passionate about the intersection of artificial intelligence, robotics, and advanced control systems. I enjoy transforming complex mathematical models into tangible solutions, bridging the gap between mechanical design, power electronics, and software programming.
 
-### 🔭 Lo que estoy haciendo
-Actualmente, enfoco mi desarrollo en la integración de hardware, la movilidad eléctrica y la automatización. Estoy investigando y diseñando sistemas de distribución de energía para un monoplaza eléctrico de competición. En paralelo, implemento controladores LQR adaptativos apoyados en el entrenamiento de redes neuronales y controladores PID digitales para la estabilización térmica de procesos de extrusión y la regulación de motores DC. Además de la instrumentación física y la extracción de modelos en espacios de estados, me encuentro desarrollando aplicaciones orientadas a software, como un modelo de reconocimiento de lenguaje de señas en Python, integrando toda la lógica desde la simulación matemática hasta su ejecución en microcontroladores.
+### 🔭 Current Focus & Projects
+Currently, I am focusing my development on hardware integration, electric mobility, and automation. I am researching and designing power distribution systems for an electric formula race car. Concurrently, I am implementing adaptive LQR controllers supported by neural network training, alongside digital PID controllers for the thermal stabilization of extrusion processes and DC motor regulation. In addition to physical instrumentation and state-space model extraction, I am developing software-oriented applications—such as a sign language recognition model in Python—integrating the complete logic from mathematical simulation to its deployment on microcontrollers.
 
-### 🛠️ Mis Habilidades Técnicas
+### 🛠️ Technical Skills
 
 <table width="100%">
   <tr>
-    <th width="33.3%" align="center">Programación y Web</th>
-    <th width="33.3%" align="center">Control y Simulación</th>
-    <th width="33.3%" align="center">Diseño CAD y Hardware</th>
+    <th width="33.3%" align="center">Programming & Web</th>
+    <th width="33.3%" align="center">Control & Simulation</th>
+    <th width="33.3%" align="center">CAD Design & Hardware</th>
   </tr>
   <tr>
     <td align="center" valign="top">
